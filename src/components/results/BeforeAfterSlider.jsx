@@ -90,7 +90,7 @@ export default function BeforeAfterSlider() {
             </div>
             <div>
               <p className="font-mono text-xs text-obsidian/30">LCpeak</p>
-              <p className="font-mono text-xl text-amber">74 dB</p>
+              <p className="font-mono text-xl text-amber">68.5 dB</p>
             </div>
           </div>
         </div>
@@ -112,7 +112,7 @@ export default function BeforeAfterSlider() {
             </div>
             <div>
               <p className="font-mono text-xs text-obsidian/30">LCpeak</p>
-              <p className="font-mono text-xl text-slate">74 dB</p>
+              <p className="font-mono text-xl text-slate">68.5 dB</p>
             </div>
           </div>
         </div>
